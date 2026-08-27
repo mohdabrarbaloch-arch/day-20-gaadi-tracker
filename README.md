@@ -45,9 +45,9 @@ Built in a day as **Day 20** of the *Autonomous AI Software Engineer – 30 Day 
 
 ## 🖼️ Screenshots
 
-| Dashboard | Vehicles | Vehicle detail |
-|-----------|----------|----------------|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Vehicles](docs/screenshots/vehicles_filled.png) | ![Vehicle](docs/screenshots/vehicle.png) |
+| Auth | Dashboard | Vehicle detail |
+|------|-----------|----------------|
+| ![Auth](https://static.teamily.ai/sites/343ca6d2-ff82-4c7b-9ee8-1b524c8030f4/documents/dashboard/dashboard.jpg) | ![Dashboard](https://static.teamily.ai/sites/343ca6d2-ff82-4c7b-9ee8-1b524c8030f4/documents/vehicles/vehicles.jpg) | ![Vehicle](https://static.teamily.ai/sites/343ca6d2-ff82-4c7b-9ee8-1b524c8030f4/documents/vehicle/vehicle.jpg) |
 
 *Captured from the running app: dark mobile-first UI, maintenance schedule, fuel mileage and service history.*
 
